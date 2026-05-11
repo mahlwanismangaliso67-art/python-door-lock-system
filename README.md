@@ -1,2 +1,15 @@
-# python-door-lock-system
-A beginner-friendly Python project that simulates a smart door lock system with PIN authentication, security questions, and basic access control.
+# Python Door Lock System
+
+A beginner Python project that simulates a smart door lock system using:
+- PIN verification
+- PIN reset
+- Security questions
+- Access control
+
+## Built With
+- Python
+
+## Future Improvements
+- Face verification
+- Fingerprint verification
+- GUI interface
