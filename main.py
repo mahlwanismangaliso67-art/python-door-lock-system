@@ -39,7 +39,7 @@ while pin != correct_pin:
                   print("2. Try again")
                   print("3. Exit")
        elif users_choice == '3':
-           print("Are you accepting defeat")
+           print("Bye")
            break
    
 else:
